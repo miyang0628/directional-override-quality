@@ -1,0 +1,13 @@
+regime,n_per_cell,false_flag_rate_down_arm
+asymmetric,500,0.0012
+asymmetric,1000,0.0004
+asymmetric,2000,0.0004
+asymmetric,5000,0.0004
+asymmetric,10000,0.0
+asymmetric,20000,0.0
+healthy,500,0.0
+healthy,1000,0.0004
+healthy,2000,0.0
+healthy,5000,0.0
+healthy,10000,0.0
+healthy,20000,0.0

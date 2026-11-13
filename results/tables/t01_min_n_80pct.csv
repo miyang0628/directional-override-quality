@@ -1,0 +1,9 @@
+arm,true_sep_pp,n_empirical_80pct,n_analytic_80pct
+down BB+,0.66,1754.0,1746
+down BB,0.11,,68510
+down BB-,0.4,9093.0,8933
+down B+,1.24,1641.0,1534
+down B,1.97,928.0,914
+down B-,2.77,757.0,706
+up B+,0.25,,28364
+up B,0.02,,6029224
